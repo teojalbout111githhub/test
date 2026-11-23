@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiet Feed</string>
+    <string name="service_desc">Mutes media every time you scroll Instagram or TikTok to a new video. Press volume-up to hear only the video you are on. It only reads which app is open and when a scroll happens, never what is on screen.</string>
+</resources>
